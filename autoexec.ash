@@ -1,3 +1,6 @@
 sleep 1
 t app key mode
-d:\autoexec2.ash
+sleep 1
+t app key mode
+sleep 1
+t app key mode
